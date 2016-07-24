@@ -1,0 +1,2 @@
+{"_id" : "57907ce25f55e14ae0b90adc", "location" : {"type" : "Point", "coordinates" : [ -1.5450609, 50.7573378]}, "amenity" : "cafe", "name" : "Willow Cafe"}
+{ "_id" : "57907ce25f55e14ae0b90b3a" , "location" : { "type" : "Point" , "coordinates" : [ -0.1253052 , 51.5357237]} , "addr:housenumber" : "1" , "website" : "http://www.caravankingscross.co.uk/" }

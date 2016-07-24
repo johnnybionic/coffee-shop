@@ -16,3 +16,6 @@ The first commit is practically a like-for-like version of the presentation. It'
 - use the most recent MongoDB Java driver (Document vs BasicDBObject)
 
 I hope to make these changes, but for now this project shows how to create the application using Spring Boot - and remember, it's a demo! :)
+
+----
+Embedded server: I started work on this, an embedded MongoDB starts for unit tests, else a standard server is used.

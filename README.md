@@ -5,7 +5,7 @@ I took (and passed) an online MongoDB University course, "M101J: MongoDB for Jav
 
 https://www.infoq.com/presentations/demo-java-javascript-mongodb
 
-Unfortunately the presentation is a couple fo years old, and the versions of some of the technologies have moved on (significant changes to Dropwizard, for example). There are also mulitple versions of this presentation around the web, all a little different - no doubt being updated for newer versions.
+Unfortunately the presentation is a couple of years old, and the versions of some of the technologies have moved on (significant changes to Dropwizard, for example). There are also multiple versions of this presentation around the web, all a little different - no doubt being updated for newer technologies.
 
 I don't know Dropwizard, so I followed the presentation and converted it to Spring Boot (which seems to have all the benefits given for Dropwizard). 
 
